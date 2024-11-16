@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Bhavyaa20/Bhavya/blob/main/Screenshot%202024-11-15%20223315.png)
+![logo](https://github.com/Bhavyaa20/Bhavyaa20/blob/main/Screenshot%202024-11-15%20223315.png)
 <h1 align="center">Hi 👋, I'm Bhavya Bhardwaj</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 <img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3K8G2UqDVSJBopWzF2q9PCrd-zMMKo1cxbg&s">
